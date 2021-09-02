@@ -3,7 +3,7 @@
     'name': 'Purchase Product Brand',
     'version': '13.0',
     'author': 'Byootan Tech',
-    'category': 'Product Management',
+    'category': 'Purchase',
     'license': 'AGPL-3',
     'summary': """Add Brand For Purchase Analysis Report """,
     'depends': ['brand_products'],

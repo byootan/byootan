@@ -3,7 +3,7 @@
     'name': 'Account Product Brand',
     'version': '13.0',
     'author': 'Byootan Tech',
-    'category': 'Product Management',
+    'category': 'Accounting',
     'license': 'AGPL-3',
     'summary': """Add Brand For Account Analysis Report """,
     'depends': ['brand_products', 'account'],

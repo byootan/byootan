@@ -3,7 +3,7 @@
     'name': 'Sales Product Brand',
     'version': '13.0',
     'author': 'Byootan Tech',
-    'category': 'Product Management',
+    'category': 'Sales',
     'license': 'AGPL-3',
     'summary': """Add Brand For Sales Analysis Report """,
     'depends': ['brand_products', 'sale_management'],
